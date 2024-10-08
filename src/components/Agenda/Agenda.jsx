@@ -16,7 +16,7 @@ const Agenda = () => {
     {
       time: "09:00 AM - 09:15 AM",
       event:
-        "Opening Remarks - Introduction by the host, overview of the conference theme, and acknowledgment of sponsors and key participants.",
+        "Opening Remarks",
     },
     {
       time: "09:15 AM - 09:35 AM",
