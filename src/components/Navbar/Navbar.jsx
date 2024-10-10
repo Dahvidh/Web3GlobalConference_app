@@ -19,11 +19,11 @@ const Navbar = () => {
       </div>
       <div className={`nav-links ${isOpen ? "open" : ""}`}>
         <ul>
-          <li>
+          {/*<li>
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSeOCFyt6izfrUbp0JCyvoP9TGRKAnK5LERjmbD35WMsTIl-Jg/viewform">
               BE A SPEAKER
             </a>
-          </li>
+          </li>*/}
           <li>
             <a href="/past-events">Past Events</a>
           </li>
